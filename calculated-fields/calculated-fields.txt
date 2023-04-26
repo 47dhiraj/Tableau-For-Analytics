@@ -1,0 +1,32 @@
+
+Calculated fields in Tableau are user-defined formulas that are created to perform complex calculations on the data in a visualization. 
+
+They allow users to create new measures and dimensions by using functions, operators, and fields from the data source.
+
+
+# Step-by-step guide to create a calculated field in tableau:
+
+    1. Open a Tableau workbook and connect to your data source.
+
+    2. Drag the relevant data source to the canvas and select the sheet you want to work on.
+
+    3. In the Data pane, locate the field that you want to use to create the calculated field. 
+        Right-click on the field and select "Calculated Field..." from the "Create" dropdown menu. 
+
+    4. The Calculated Field editor dialog box will open. 
+        Give your calculated field a name in the "Name" field at the top of the dialog box.
+
+    5. In the "Formula" box, enter the formula for your calculated field. 
+        You can use operators, functions, and other fields in the formula. 
+        Tableau will offer suggestions as you type, and you can select the desired function or field from the dropdown menu.
+
+    6. Once you have entered the formula, click on the "OK" button to save the calculated field.
+
+    7. The new calculated field will now appear in the data pane under "Measures" or "Dimensions", depending on the type of field you created. 
+        You can drag the calculated field to the canvas to use it in your visualization.
+
+    8. You can edit the calculated field at any time by right-clicking on it in the data pane and selecting "Edit" from the menu. You can also delete the calculated field by selecting "Delete" from the same menu.
+
+
+
+    Wallah !

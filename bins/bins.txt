@@ -1,0 +1,26 @@
+
+What is bins in tableau ?
+
+    ==> Bins are a way to group continuous numerical data into discrete categories. 
+        For example, you can create bins for age/year ranges or income brackets.
+
+
+# How to create bins in tableau ?
+
+        1. Open Tableau Desktop and connect to your data source.
+
+        2. Drag the field you want to create bins for onto the Rows or Columns shelf.
+
+        3. Right-click on the field under the Table section on left-side and select "Create Bins" from the drop-down menu.
+
+        4. Then the Create Bins dialog box will appear, choose the size of your bins by either typing in a specific value or using the slider.
+        
+        5. You can also choose the starting point of your bins by adjusting the "Starting at" value.
+
+        6. Click "OK" to create the bins.
+
+        7. Tableau will create a new field with the name yo have given.
+
+        8. You can now drag this new field onto the Rows or Columns shelf to use in your analysis.
+
+    Wallah !
