@@ -1,0 +1,25 @@
+
+# How to import .csv file on Tableau for creating visualization ??
+
+    1. Open Tableau and click on the "Connect" button on the start page of Tableau Interface.
+    
+    2. In the "Connect" pane, just under "To a File" section, select/click on "Text File" (which also means .csv format) option.
+    
+    3. Browse and select the .csv file you want to import.
+    
+    4. In the "Preview" pane, you will see a preview of your data. 
+        If your data has headers, ensure that the "First Row Contains Field Names" option is checked.
+    
+    5. Click on the "Sheet" tab (i.e having orange color) to begin creating your visualization.
+    
+    6. Drag and drop the fields you want to include in your visualization from the left-hand / left side "Data" pane to the "Columns" and "Rows" shelves in the "Worksheet" pane.
+    
+    7. From the "Show Me" pane on the right-hand side, select the type of visualization you want to create (e.g. bar chart, line chart, scatterplot, etc.).
+    
+    8. Customize your visualization as desired using the various formatting options available in Tableau.
+    
+    9. Once you're happy with your visualization, you can save it and share it with others.
+
+
+    Wallah !
+

@@ -1,0 +1,18 @@
+
+# Overview of various frequently used options in Tableau interface :
+
+    1. Workspace
+    2. Data Source Tab 
+    3. Worksheets
+    4. Show Me
+    5. Marks Card
+    6. Filters
+    7. Pages
+    8. Dashboard
+    9. Toolbars
+    10. Data Pane
+
+    With these tools, you can create a wide variety of visualizations and dashboards to help you analyze and communicate your data effectively.
+
+
+    Wallah !

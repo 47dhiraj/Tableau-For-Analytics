@@ -1,0 +1,9 @@
+
+# About, Dimensions and Measures in Tableau workspace :
+
+    Dimensions and Measures are two types of columns that have different roles in data analysis and visualization.
+
+
+    ==> Dimensions: They are used to segment/divide and categorize data into meaningful groups for analysis. 
+
+    ==> Measures: They are used to perform calculations and aggregate data into meaningful metrics for analysis. 

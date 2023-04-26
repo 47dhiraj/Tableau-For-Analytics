@@ -1,0 +1,16 @@
+
+# Various Data Sources supported by Tableau:
+
+    Tableau supports a wide range of data sources including spreadsheets, databases, and cloud services. 
+    
+    Here are some of the types of data that can be imported into Tableau:
+
+        - Spreadsheets such as Excel, CSV, or Google Sheets from Google Drive.
+
+        - Relational databases such as MySQL, Oracle, SQL Server, or PostgreSQL
+
+        - Cloud-based data sources such as Google Analytics, Salesforce, or Amazon Redshift.
+
+        - Big data sources such as Hadoop or Apache Spark
+
+        - Other sources such as JSON files or web data connectors
