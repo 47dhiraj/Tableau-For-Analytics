@@ -1,0 +1,28 @@
+
+Step-by-step guide to creating a bar graph visualization in Tableau:
+
+
+    1. Start by opening Tableau and connecting to your data source.
+
+    2. Drag and drop the desired dimension or field to the Columns shelf. 
+        This will create a horizontal axis for your bar graph.
+
+    3. Drag and drop the desired measure or field to the Rows shelf. 
+        This will create a vertical axis for your bar graph.
+
+    4. Tableau will automatically create a bar graph based on the fields you have selected. 
+        You can customize the appearance of the graph by selecting different chart types, adjusting the size and color of the bars, and adding labels or annotations.
+
+    5. To customize your bar graph, select the graph and then use the marks card to make changes. 
+        For example, you can change the color of the bars, add labels or tooltips, or adjust the size of the bars.
+
+    6. You can also add additional dimensions or measures to the graph by dragging them to the appropriate shelves. 
+        This will create additional bars in the graph.
+
+    7. To add filters or other elements to your bar graph, use the various options in the sidebar to customize your view.
+
+    8. Once you are satisfied with your bar graph, you can save it as a worksheet or add it to a dashboard to share with others.
+
+
+    Wallah !
+

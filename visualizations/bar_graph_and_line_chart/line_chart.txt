@@ -1,0 +1,27 @@
+
+Step-by-step guide to creating a line chart visualization in Tableau:
+
+
+    1. Open Tableau and connect to your data source.
+
+    2. Drag the dimension or field you want to visualize to the Columns shelf. 
+        This will create the horizontal axis for your line chart.
+
+    3. Drag the measure or field you want to visualize to the Rows shelf.
+
+    4. Tableau will automatically create a line chart based on the fields you have selected. 
+        You can customize the appearance of the chart by selecting different chart types, adjusting the color and size of the lines, and adding labels or annotations.
+
+    5. To customize your line chart, select the chart and then use the Marks card to make changes. 
+        For example, you can change the color or thickness of the lines, add labels or tooltips, or adjust the size of the points.
+
+    6. You can also add additional dimensions or measures to the chart by dragging them to the appropriate shelves. 
+        This will create additional lines in the chart.
+
+    7. To add filters or other elements to your line chart, use the various options in the sidebar to customize your view.
+
+    8. Once you are satisfied with your line chart, you can save it as a worksheet or add it to a dashboard to share with others.
+
+
+    Wallah !
+

@@ -1,0 +1,19 @@
+
+# Steps to build area/density chart in tableau :
+
+    1. Connect to your data source by selecting the appropriate option in the "Connect" pane.
+
+    2. Drag the dimension(s) and measure(s) you want to visualize to the "Columns" and "Rows" shelves, respectively.
+
+    3. Click on the "Show Me" icon in the top-right corner of the screen to open the "Show Me" panel.
+
+    4. In the "Show Me" panel, select the "Area" or "Density" chart type, depending on your preference. 
+
+    5. Tableau will automatically generate a chart based on your data. You can customize the chart by adjusting the axis ranges, changing the colors, adding labels, and modifying the chart type using the "Marks" card and the "Format" pane.
+
+    6. To further refine your analysis, you can add filters, create groups, and perform other data manipulations as needed.
+
+    7. Once you are satisfied with your chart, you can save it, export it, or share it with others using Tableau's various publishing and sharing options.
+
+
+    Wallah !

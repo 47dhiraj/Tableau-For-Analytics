@@ -1,0 +1,19 @@
+
+Visualizations are important in Tableau dashboards because they help to communicate complex data in an easily understandable format. 
+
+Here are some reasons why visualizations are needed in Tableau dashboards:
+
+
+    1. Simplify complex data: Tableau allows you to create different types of visualizations such as charts, graphs, maps, and tables, which can simplify complex data and make it easier to understand.
+
+    2. Spot trends and patterns: By visualizing data, you can spot trends and patterns that might not be immediately apparent in raw data. 
+    This can help you make better-informed decisions.
+
+    3. Identify outliers: Visualization can also help you identify outliers in your data, which are data points that are significantly different from the other data points. 
+    Outliers can be important for analysis, and visualizations can help you spot them quickly.
+
+    4. Communicate insights: Visualizations make it easy to communicate insights and findings to others. 
+    By presenting data in a visual format, you can help others understand the significance of the data and the insights you have gained from it.
+
+    5. Engage your audience: Visualizations are more engaging than text or tables alone. 
+    By using visualizations in your Tableau dashboard, you can capture your audience's attention and make your data more memorable.
