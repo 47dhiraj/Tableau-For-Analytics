@@ -1,0 +1,19 @@
+
+    # key points about the Rows and Columns shelves in the Tableau interface:
+
+
+        1. The Rows shelf is used to display data along the vertical axis of a view, while the Columns shelf is used to display data along the horizontal axis.
+
+        2. The Rows shelf is typically used for dimensions, such as categories or groups, 
+        while the Columns shelf is typically used for measures, such as numeric values.
+
+        3. The order/sequence in which dimensions and measures are added to the Rows and Columns shelves can affect the layout and appearance of the view.
+
+        4. Dimensions should generally be added to the Rows shelf first, followed by measures on the Columns shelf.
+
+        5. It is important to consider the type of chart or graph you want to create when deciding which fields to drag into the Rows and Columns shelves. For example, a bar chart typically requires a categorical dimension on the Rows shelf and a numerical measure on the Columns shelf.
+
+        6. You can also use the Marks card to change the type of visualization and add additional fields to the view, such as color or size.
+
+
+    In summary, Dimensions should generally be added to the Rows shelf first, followed by measures on the Columns shelf, but the specific fields you choose to drag into each shelf depend on the type of chart or graph you want to create.

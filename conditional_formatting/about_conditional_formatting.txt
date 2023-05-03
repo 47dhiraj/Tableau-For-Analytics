@@ -1,0 +1,14 @@
+
+# What is Conditional Formatting in Tableau ??
+
+
+    ==> Tableau conditional formatting is a feature that allows users to apply  visual formatting, such as color, size, or shape, to data based on specific conditions or rules. 
+        This means you can dynamically change the appearance of data points as they move through a chart or visualize numeric values depending upon other variable criteria.
+    
+
+    ==> This helps users identify trends, outliers, and patterns in the data more easily.
+
+
+    ==> For example, suppose you have a dataset of sales data for different products across various regions. 
+        You may want to highlight the top-performing products and regions by using conditional formatting.
+    
