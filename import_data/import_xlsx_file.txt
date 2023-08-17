@@ -1,0 +1,22 @@
+
+
+# How to import .xlsx(Excel) file on Tableau for creating visualization ??
+
+
+    Sure, here's a step-by-step guide to import an .xlsx file into Tableau:
+
+        1. Open Tableau Public / Tableau Desktop(pro version).
+
+        2. On the start page, under the "Connect" pane, select "Microsoft Excel" under the "To a File" section.
+
+        3. Browse and select the .xlsx file you want to import.
+
+        4. In the "Excel Connection" dialog box that appears, select the sheet you want to import data from.
+
+        5. U can see all the excel sheets in the "Data Source" section.
+
+        6. Click on the "Sheet" tab at the bottom of the window to actually view & start analyzing the data in Tableau.
+
+
+    Wallah!
+

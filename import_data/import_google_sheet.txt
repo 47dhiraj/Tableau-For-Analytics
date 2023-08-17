@@ -1,0 +1,30 @@
+
+# How to directly import google sheet file having in "Google Drive" on Tableau interface, for creating visualization ??
+
+
+    Sure, here are the steps to directly connect to a Google Sheet in Google Drive from Tableau:
+
+
+    1. Open Tableau public/pro version and u will see "Connect" in the start screen of Tableau Interface.
+
+    2. In the "Connect" window, Click on "More" and now slect/click on "Google Drive" option.
+
+        Alternative way: (If u have already previously connected to other google sheet on google drive) then,
+            ==> In the "Connect" window, click on "Google Drive " / "Google Sheets", just under "To a Server" section.
+
+    3. Now, "Sign In with Google" in browser will appear, so, Sign in to that Google account where the google sheet is located.
+
+    4. A "Tableau wants to access your Google Account" message will appear on browser screen, click on "Allow" option.
+
+    5. Find the Google Sheet you want to connect to inside of your google drive and simply click on below green "Connect" button.
+        Alternative / Optional : If the sheet is not public, you will need to sign in to your Google account again and grant Tableau permission to access the sheet.
+
+    7. Tableau will load the data from your Google Sheet. 
+        And, now u should be able to preview the data of google sheet.
+
+    8. Tableau will create a new worksheet with the imported data. 
+        You can now start analyzing the data and creating visualizations.
+
+
+    Wallah !
+

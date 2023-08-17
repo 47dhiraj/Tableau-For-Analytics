@@ -11,4 +11,34 @@
 
     ==> For example, suppose you have a dataset of sales data for different products across various regions. 
         You may want to highlight the top-performing products and regions by using conditional formatting.
-    
+
+
+
+# How to apply conditional formatting ?
+
+    Step by step guide to apply conditional formatting using mark card:
+
+        1. Open a Tableau workbook and navigate to the worksheet where you want to apply conditional formatting to a table.
+
+
+        2. Drag the desired dimensions and measures to the "Rows" and "Columns" shelves to create the table.
+
+
+        3. Drag the measure field you want to format, to the "Text" box on the "Marks" card (i.e may be numeric value on table ko lagi).
+            U can also give color to this measure (numeric value) according to ur desire, so to this, again drop this same measure field to the "color" box and can give any "Diverging" color. 
+
+
+        4. Now, drag that dimension/field on "size" or "color" box.
+        
+
+        5. Now, on tha Marks card dropdown, choose any shape to the formatting (like, Bar, Line, Circle, GanttChart etc.)
+            NOTE: Blank/White may be shown on table (error/red dimension on mark card OR not working jastai scenario huncha.)
+
+            So, to fix above scenario, click on drop down of error throwing(red dimension) on mark card and to aggreage it:
+                ==> Choose/click "Measure" dropdown and finally select "Count (Distinct)"
+        
+
+        6. Now, if u want to customize the size, u can select the "size" box and change the size according to ur desire.
+
+
+    Wallah !

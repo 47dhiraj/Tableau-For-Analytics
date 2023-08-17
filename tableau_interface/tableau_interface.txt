@@ -1,18 +1,51 @@
 
 # Overview of various frequently used options in Tableau interface :
 
-    1. Workspace
-    2. Data Source Tab 
-    3. Worksheets
-    4. Show Me
-    5. Marks Card
-    6. Filters
-    7. Pages
-    8. Dashboard
-    9. Toolbars
-    10. Data Pane
+
+    1. Workspace: The workspace is the main area where you can create and work on your visualizations. 
+                You can drag and drop fields to create charts, tables, and other visuals. 
+
+
+    2. Data Source Tab: This tab allows you to connect to your data sources, manage your connections, and view metadata about your data. 
+
+
+    3. Worksheets: Worksheets are where you create individual visualizations. 
+                You can have multiple worksheets in a single Tableau workbook, and you can switch between them using the tabs at the bottom of the workspace. 
+
+
+    4. Show Me: The "Show Me" panel is located in the top-right corner of the workspace and allows you to select the type of visualization/chart you want to create. 
+            It offers a variety of chart types, such as bar charts, line charts, scatter plots, and maps. 
+
+
+    5. Marks Card: The marks card is located in the top-left corner of the workspace and controls the appearance of the marks in your visualization. 
+                You can use the marks card to change the color, size, text, label, detail and path of the marks in your visualization. 
+
+
+    6. Filters: Filters allow you to refine/filter out or filter down your visualization by including or excluding specific data. 
+                You can add filters to your visualization by dragging fields to the "Filters" shelf located in the left-hand pane.
+                This filter is most useful or comes handy when u give the visualization to the client to check things in different ways.
+                It is similar with the filtering to search something specific/particular in the website. 
+
+
+    7. Pages: Pages allow you to create animated visualizations or explore data over time. 
+            You can add fields to the "Pages" shelf to create a series of visualizations that show changes over time or other categories. 
+
+
+    8. Dashboard: Dashboards are a collection of worksheets and other content that you can combine to create a single view. 
+                You can add worksheets, images, and web pages to a dashboard and arrange them in a layout that works best for your needs. 
+
+
+    9. Toolbars: Tableau has several toolbars that provide quick access to various features and options. 
+                The main toolbar is located at the top of the workspace and includes buttons for opening and saving workbooks, undo and redo, and other common tasks. 
+
+
+    10. Data Pane: The data pane is located on the left-hand side of the workspace and shows the fields in your data source. 
+                You can drag and drop fields from the data pane to create visualizations or add them to filters, shelves, or the marks card. 
+
+
 
     With these tools, you can create a wide variety of visualizations and dashboards to help you analyze and communicate your data effectively.
 
 
     Wallah !
+
